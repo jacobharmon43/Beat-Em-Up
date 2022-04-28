@@ -1,0 +1,1884 @@
+fileFormatVersion: 2
+guid: 3907a18c4fa0e1449b78f562f29bab07
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 78890192790203117
+    second: Haggar_0
+  - first:
+      213: 1058637356586100212
+    second: Haggar_1
+  - first:
+      213: -5427335074215681351
+    second: Haggar_2
+  - first:
+      213: 4592227967940157660
+    second: Haggar_3
+  - first:
+      213: 2569675223010769512
+    second: Haggar_4
+  - first:
+      213: -8036775183824271476
+    second: Haggar_5
+  - first:
+      213: 5245333838566778201
+    second: Haggar_6
+  - first:
+      213: -6946227447443793931
+    second: Haggar_7
+  - first:
+      213: 7244909472380571127
+    second: Haggar_8
+  - first:
+      213: 3801545637833284178
+    second: Haggar_9
+  - first:
+      213: 4062016659098446112
+    second: Haggar_10
+  - first:
+      213: -4680882266324937461
+    second: Haggar_11
+  - first:
+      213: -311549213350177684
+    second: Haggar_12
+  - first:
+      213: -3180164146372916581
+    second: Haggar_13
+  - first:
+      213: -2879451427243064993
+    second: Haggar_14
+  - first:
+      213: -2506986076298646728
+    second: Haggar_15
+  - first:
+      213: -2014418030012973153
+    second: Haggar_16
+  - first:
+      213: -3875719203724942680
+    second: Haggar_17
+  - first:
+      213: 983665358085817513
+    second: Haggar_18
+  - first:
+      213: -2536906680220578594
+    second: Haggar_19
+  - first:
+      213: -8671555470702547557
+    second: Haggar_20
+  - first:
+      213: -2579617729246745240
+    second: Haggar_21
+  - first:
+      213: -7445514418369169960
+    second: Haggar_22
+  - first:
+      213: -1945299069858178317
+    second: Haggar_23
+  - first:
+      213: 1807403992443362203
+    second: Haggar_24
+  - first:
+      213: 4986711289313855985
+    second: Haggar_25
+  - first:
+      213: 7497744706263834053
+    second: Haggar_26
+  - first:
+      213: -4885743557173918118
+    second: Haggar_27
+  - first:
+      213: -7897112613771691353
+    second: Haggar_28
+  - first:
+      213: -1402544522996752626
+    second: Haggar_29
+  - first:
+      213: -9221996688215244467
+    second: Haggar_30
+  - first:
+      213: 5638060804568899533
+    second: Haggar_31
+  - first:
+      213: 1098668096793679531
+    second: Haggar_32
+  - first:
+      213: -1016345853988271310
+    second: Haggar_33
+  - first:
+      213: 876531223814257877
+    second: Haggar_34
+  - first:
+      213: 1834448994338798413
+    second: Haggar_35
+  - first:
+      213: 2886879252212726035
+    second: Haggar_36
+  - first:
+      213: -1054981386906989240
+    second: Haggar_37
+  - first:
+      213: 7785577922949635970
+    second: Haggar_38
+  - first:
+      213: -5532197729111519511
+    second: Haggar_39
+  - first:
+      213: -5567037968803627735
+    second: Haggar_40
+  - first:
+      213: -4132461565547519143
+    second: Haggar_41
+  - first:
+      213: -3662958086278258373
+    second: Haggar_42
+  - first:
+      213: 2359405621054342359
+    second: Haggar_43
+  - first:
+      213: 853145823607015140
+    second: Haggar_44
+  - first:
+      213: 8044282562012360723
+    second: Haggar_45
+  - first:
+      213: -123203774931315937
+    second: Haggar_46
+  - first:
+      213: 7663574535616968531
+    second: Haggar_47
+  - first:
+      213: 4880219243814096569
+    second: Haggar_48
+  - first:
+      213: -227764593167502118
+    second: Haggar_49
+  - first:
+      213: -530667495124334411
+    second: Haggar_50
+  - first:
+      213: -7576157354179438465
+    second: Haggar_51
+  - first:
+      213: 1803333801034420410
+    second: Haggar_52
+  - first:
+      213: 3019943409611235004
+    second: Haggar_53
+  - first:
+      213: -289446650799561634
+    second: Haggar_54
+  - first:
+      213: 1860055077440640438
+    second: Haggar_55
+  - first:
+      213: 1254373800768636489
+    second: Haggar_56
+  - first:
+      213: 3639493284653732006
+    second: Haggar_57
+  - first:
+      213: 7165087689571090742
+    second: Haggar_58
+  - first:
+      213: -5244152922841192745
+    second: Haggar_59
+  - first:
+      213: -3639587207399032813
+    second: Haggar_60
+  - first:
+      213: -3545395707994563755
+    second: Haggar_61
+  - first:
+      213: -417873573369980506
+    second: Haggar_62
+  - first:
+      213: -8851849187204363422
+    second: Haggar_63
+  - first:
+      213: -8572239149797724678
+    second: Haggar_64
+  - first:
+      213: 8498504596567521009
+    second: Haggar_65
+  - first:
+      213: 1564392606875985661
+    second: Haggar_66
+  - first:
+      213: -7232585348895672053
+    second: Haggar_67
+  - first:
+      213: 3527393579237400365
+    second: Haggar_68
+  - first:
+      213: -805839222165110265
+    second: Haggar_69
+  - first:
+      213: 4492747372195899393
+    second: Haggar_70
+  - first:
+      213: 3023406795588076351
+    second: Haggar_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Haggar_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 973
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaa58d5636481100800000000000000
+      internalID: 78890192790203117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 993
+        width: 203
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5e541211901be00800000000000000
+      internalID: 1058637356586100212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 839
+        width: 81
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b22b58518b3ea4b0800000000000000
+      internalID: -5427335074215681351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 839
+        width: 81
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0efa4910fdabf30800000000000000
+      internalID: 4592227967940157660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 839
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86afda7200259a320800000000000000
+      internalID: 2569675223010769512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_5
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 839
+        width: 81
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87ca7c0d83a77090800000000000000
+      internalID: -8036775183824271476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 839
+        width: 82
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955eb10d55b2bc840800000000000000
+      internalID: 5245333838566778201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 839
+        width: 85
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f75b0270fa0a9f90800000000000000
+      internalID: -6946227447443793931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_8
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 839
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd4b1ba7c61b8460800000000000000
+      internalID: 7244909472380571127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_9
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 839
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a1d7cbd9dc1c430800000000000000
+      internalID: 3801545637833284178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_10
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 839
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029284541ae2f5830800000000000000
+      internalID: 4062016659098446112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_11
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 839
+        width: 82
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05d640116a2a0fb0800000000000000
+      internalID: -4680882266324937461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_12
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 839
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64d53024a72dabf0800000000000000
+      internalID: -311549213350177684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_13
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 839
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a4200ee89cdd3d0800000000000000
+      internalID: -3180164146372916581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 708
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f518f23de222a08d0800000000000000
+      internalID: -2879451427243064993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 712
+        width: 52
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b6e593275653dd0800000000000000
+      internalID: -2506986076298646728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_16
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 739
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f3feb79795b04e0800000000000000
+      internalID: -2014418030012973153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 712
+        width: 52
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2a0dc2beda63ac0800000000000000
+      internalID: -3875719203724942680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_18
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 705
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a400967e6ea6ad00800000000000000
+      internalID: 983665358085817513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_19
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 726
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc0321c0d81bccd0800000000000000
+      internalID: -2536906680220578594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_20
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 742
+        width: 123
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9deda64e3278a780800000000000000
+      internalID: -8671555470702547557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_21
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 743
+        width: 128
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86da2f7b75b533cd0800000000000000
+      internalID: -2579617729246745240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 558
+        width: 67
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d57e03a5183ca890800000000000000
+      internalID: -7445514418369169960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 651
+        width: 389
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa94377dc8e005e0800000000000000
+      internalID: -1945299069858178317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_24
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 558
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b9537ea50351910800000000000000
+      internalID: 1807403992443362203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 558
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f98bf43f7b543540800000000000000
+      internalID: 4986711289313855985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_26
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 558
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cddb69e5175d0860800000000000000
+      internalID: 7497744706263834053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_27
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 558
+        width: 120
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56cefade1a523cb0800000000000000
+      internalID: -4885743557173918118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 433
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aab1e02be1d76290800000000000000
+      internalID: -7897112613771691353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 433
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fdb15ff29298ce0800000000000000
+      internalID: -1402544522996752626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_30
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 433
+        width: 113
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d410a1f4fd2e40080800000000000000
+      internalID: -9221996688215244467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_31
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 433
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfd1661e6a6e3e40800000000000000
+      internalID: 5638060804568899533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_32
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 433
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6117320d04f3f00800000000000000
+      internalID: 1098668096793679531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_33
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 433
+        width: 54
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b8614a4d635e1f0800000000000000
+      internalID: -1016345853988271310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_34
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 433
+        width: 71
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcbcf501801a2c00800000000000000
+      internalID: 876531223814257877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_35
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 433
+        width: 111
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bf22a14a5457910800000000000000
+      internalID: 1834448994338798413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_36
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 433
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319b5917261401820800000000000000
+      internalID: 2886879252212726035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 304
+        width: 64
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d82c4a404fb51f0800000000000000
+      internalID: -1054981386906989240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_38
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 304
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f59840fddeb0c60800000000000000
+      internalID: 7785577922949635970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_39
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 309
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eec519e97fa933b0800000000000000
+      internalID: -5532197729111519511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_40
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 309
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92df85a7678edb2b0800000000000000
+      internalID: -5567037968803627735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_41
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 308
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953e591d91c86a6c0800000000000000
+      internalID: -4132461565547519143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_42
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 305
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b316d38170f8a2dc0800000000000000
+      internalID: -3662958086278258373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_43
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 305
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4010469ea4eb020800000000000000
+      internalID: 2359405621054342359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_44
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 320
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e644bd3b9bf6db00800000000000000
+      internalID: 853145823607015140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_45
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 338
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310bd95ae5803af60800000000000000
+      internalID: 8044282562012360723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_46
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 320
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f135b38c1da4a4ef0800000000000000
+      internalID: -123203774931315937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_47
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 306
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357bd21df6c7a5a60800000000000000
+      internalID: 7663574535616968531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 174
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be8095bb850ab340800000000000000
+      internalID: 4880219243814096569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_49
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 174
+        width: 83
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4f6db2f41d6dcf0800000000000000
+      internalID: -227764593167502118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_50
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 174
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8844b89b0b2a8f0800000000000000
+      internalID: -530667495124334411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_51
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 174
+        width: 85
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78dbadc6051cd690800000000000000
+      internalID: -7576157354179438465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_52
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 174
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab09c1e998ab60910800000000000000
+      internalID: 1803333801034420410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_53
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 174
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbed8abd78ef8e920800000000000000
+      internalID: 3019943409611235004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_54
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 174
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e546aadfdcdabfbf0800000000000000
+      internalID: -289446650799561634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_55
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 174
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5d289ec3e30d910800000000000000
+      internalID: 1860055077440640438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_56
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 174
+        width: 86
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9460f5a635e686110800000000000000
+      internalID: 1254373800768636489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_57
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 174
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0943a0cd3128230800000000000000
+      internalID: 3639493284653732006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_58
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 174
+        width: 89
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631c8699a418f6360800000000000000
+      internalID: 7165087689571090742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_59
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 175
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6693e83b60937b0800000000000000
+      internalID: -5244152922841192745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_60
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318bcedd7b69d7dc0800000000000000
+      internalID: -3639587207399032813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_61
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b1acc43693ccec0800000000000000
+      internalID: -3545395707994563755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_62
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a95242f23a633af0800000000000000
+      internalID: -417873573369980506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_63
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b8a57301ae72580800000000000000
+      internalID: -8851849187204363422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_64
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 136
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd2c9239e9490980800000000000000
+      internalID: -8572239149797724678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_65
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 136
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f67e6057e0c0f570800000000000000
+      internalID: 8498504596567521009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_66
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 26
+        width: 75
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6271699c6d5b510800000000000000
+      internalID: 1564392606875985661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 46
+        width: 108
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09f06fe1f1b0ab90800000000000000
+      internalID: -7232585348895672053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_68
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 30
+        width: 133
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f507975c1d3f030800000000000000
+      internalID: 3527393579237400365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_69
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 32
+        width: 83
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70285c83f7511d4f0800000000000000
+      internalID: -805839222165110265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_70
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 34
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1086e417ee1795e30800000000000000
+      internalID: 4492747372195899393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Haggar_71
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 16
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33878e367c45f920800000000000000
+      internalID: 3023406795588076351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
