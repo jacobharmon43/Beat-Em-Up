@@ -5,7 +5,7 @@ using UnityEngine.InputSystem;
 [RequireComponent(typeof(PlayerInput))]
 [RequireComponent(typeof(Animator))]
 [RequireComponent(typeof(SpriteRenderer))]
-public class PlayerController : MonoBehaviour
+public class PlayerController : OrderedInLayer
 {
     
 
@@ -18,7 +18,6 @@ public class PlayerController : MonoBehaviour
     private InputAction _input;
     private InputAction _jump;
     private Animator _anim;
-    private SpriteRenderer _renderer;
 
     private StateMachine _playerControlStateMachine;
 
@@ -30,9 +29,9 @@ public class PlayerController : MonoBehaviour
     private float _trueYFeetPos;
 
 
-    private void Awake(){
+    protected override void Awake(){
+        base.Awake();
         _anim = GetComponent<Animator>();
-        _renderer = GetComponent<SpriteRenderer>();
         _map = GetComponent<PlayerInput>().currentActionMap;
         _input = _map.FindAction("Movement");
         _jump = _map.FindAction("Jump");
@@ -96,12 +95,12 @@ public class PlayerController : MonoBehaviour
     private void FixedUpdate(){
         
         _playerControlStateMachine.RunStateMachine();
+        UpdateLayer(_trueYFeetPos);
     }
 
     private void Move(){
         CollisionData data = CheckCollision();
         Vector3 input = (Vector3)_input.ReadValue<Vector2>();
-        Debug.Log($"{data.left}  {data.right}   {data.up}   {data.down}");
         if(input.x > 0 && data.right || input.x < 0 && data.left){
             input.x = 0;
         }

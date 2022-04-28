@@ -1,21 +1,30 @@
 using UnityEngine;
 
 [RequireComponent(typeof(SpriteRenderer))]
-[ExecuteAlways]
 public class OrderedInLayer : MonoBehaviour
 {
-    private SpriteRenderer _renderer;
+    protected SpriteRenderer _renderer;
     [SerializeField] private float _customY = 0;
-    private void Awake(){
+    protected virtual void Awake(){
         _renderer = GetComponent<SpriteRenderer>();
+        UpdateLayer();
     }
 
-    private void Update(){
+    public void UpdateLayer(){
         if(_customY != 0){
             _renderer.sortingOrder = (int)(Mathf.Abs(transform.position.y - _customY/2)*100);
         }
         else{
              _renderer.sortingOrder = (int)(Mathf.Abs(transform.position.y - transform.localScale.y/2)*100);
+        }
+    }
+
+    public void UpdateLayer(float yPos){
+        if(_customY != 0){
+            _renderer.sortingOrder = (int)(Mathf.Abs(yPos)*100);
+        }
+        else{
+             _renderer.sortingOrder = (int)(Mathf.Abs(yPos)*100);
         }
     }
 }
